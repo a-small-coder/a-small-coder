@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on my own frontend courses web-site
 - 🌱 I’m currently learning how to teaching pepople
-- 📫 How to reach me **Dubrovin.oleg.v@mail.ru** and **https://t.me/DubrovinOlegV**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - ✏️ e-mail: Dubrovin.oleg.v@mail.ru <br/> - 🚀 telegram: https://t.me/DubrovinOlegV
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
