@@ -13,8 +13,8 @@
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://clck.ru/3G28cg" alt="" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://clck.ru/3G28gj" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbAgEpEu36Ux6aceDUZY9nF8Hy04HGjz_5g&s" alt="pandas" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://saturncloud.io/images/glossary/pyshark.webp" alt="Pyspark" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3AmlQdIthECWzsPbJPwmtCYfpIaypO4TwEIblVEaMsoGsm37MExbuH5sUk_fl5KHzbcv5q2xN3QfskIrmv5Txbrz7wK9X0sccXEJDJs-ITES07WqqMNY5nGtYsdXATlDSjVa7KqPkVWM/s400/postgresql_logo.png" alt="postgresql" width="40" height="40"/> </a>
