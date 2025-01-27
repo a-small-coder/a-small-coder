@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">🎉 A data science developer and fullstack enjoyer</h3>
 
-- 🔭 I’m currently working on my own frontend courses web-site
+- 🔭 I'm looking for good people
 - 🌱 I’m currently learning how to teaching people
 
 <h3 align="left">Connect with me:</h3>
