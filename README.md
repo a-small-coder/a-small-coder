@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
 <h3 align="center">🎉 A data science developer and fullstack enjoyer</h3>
 
-- 🔭 I'm looking for good people
-- 🌱 I’m currently learning how to teaching people
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   - ✏️ e-mail: Dubrovin.oleg.v@mail.ru <br/> - 🚀 telegram: https://t.me/DubrovinOlegV
