@@ -6,6 +6,8 @@
   - ✏️ e-mail: Dubrovin.oleg.v@mail.ru <br/> - 🚀 telegram: https://t.me/DubrovinOlegV
 </p>
 
+<h3 align="left"> More about me -> <a href="https://a-small-coder.github.io/portfolio/">Portfolio</a></h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
